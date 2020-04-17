@@ -10,7 +10,6 @@ public class App
     {
 
         System.out.println( "My first project" );
-		System.out.println( "Ready to commit" );
 
     }
 }
