@@ -10,6 +10,7 @@ public class App
     {
 
         System.out.println( "My first project" );
+		System.out.println( "test" );
 
     }
 }
